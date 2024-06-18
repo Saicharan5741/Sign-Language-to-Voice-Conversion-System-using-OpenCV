@@ -127,9 +127,6 @@ $ python3 jupyter
 ![](Analysis/Heatmp.png)<br />
 #### The prescribed analysis aims that each class is most correlated with that traned class.
 
-## :clap: And it's done!
-Feel free to mail me for any doubts/query 
-:email: aryan.gupta18@vit.edu
 
 
 
@@ -156,8 +153,7 @@ Made with :heart:&nbsp;  by [Aryan Gupta](https://github.com/beingaryan)
 You can find our Code of Conduct [here](/CODE_OF_CONDUCT.md).
 
 
-## :eyes: License
-MIT © [Aryan Gupta](https://github.com/beingaryan/Sign-To-Speech-Conversion/blob/master/LICENSE)
+ [Aryan Gupta](https://github.com/beingaryan/Sign-To-Speech-Conversion/blob/master/LICENSE)
 
 
 
@@ -166,4 +162,4 @@ MIT © [Aryan Gupta](https://github.com/beingaryan/Sign-To-Speech-Conversion/blo
 
 
 
-"# Sign-Language-to-Voice-Conversion-System-using-OpenCV" 
+"# Sign-Language-to-Voice-Conversion-System-using-OpenCV"
